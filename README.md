@@ -54,7 +54,7 @@ before keying in the amt to transfer
 7. railway up
 8. change url user and pw in application.properties to
 ```this one add in railway variables
-MYSQL_APP_URL = [jdbc:]mysql://root:SvDj2cOhjm63Gg5IlnMK@containers-us-west-53.railway.app:7130/railway
+MYSQL_APP_URL = 
 ```
 MYSQL_APP_USER
 MYSQL_APP_PORT
